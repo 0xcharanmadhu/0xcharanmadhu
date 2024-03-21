@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Charan Madhu
 
-I'm an entrepreneur, developer, and blockchain enthusiast, passionate about leveraging technology to solve real-world problems and push the boundaries of digital innovation.
+I'm an aspiring entrepreneur, developer, and blockchain enthusiast, passionate about leveraging technology to solve real-world problems and push the boundaries of digital innovation.
 
 ## 🚀 About Me
 

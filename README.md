@@ -43,7 +43,7 @@ A Progressive Web Application (PWA) crafted using the Genie.jl framework within 
 
 Feel free to reach out if you're interested in blockchain, decentralized applications, or if you'd like to discuss technology and entrepreneurship.
 
-- 📧 Email: [charanmadhu@yandex.com](mailto:charanmadhu@yandex.com)
+- 📧 Email: [charanmadhu@yandex.com](mailto:charan@degram.io)
 - 🌐 LinkedIn: [Charan Madhu](https://www.linkedin.com/in/charanmadhusudhanan/)
 - 🐦 Twitter: [0xCharan](https://twitter.com/0xcharanmadhu)
 - 🅿️ Peerlist: [CharanMadhu](https://peerlist.io/charanmadhu)

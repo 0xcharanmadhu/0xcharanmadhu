@@ -45,7 +45,7 @@ Feel free to reach out if you're interested in blockchain, decentralized applica
 
 - 📧 Email: [charanmadhu@yandex.com](mailto:charanmadhu@yandex.com)
 - 🌐 LinkedIn: [Charan Madhu](https://www.linkedin.com/in/charanmadhusudhanan/)
-- 🐦 Twitter: [0xCharan](https://twitter.com/0xcharanmadhu)
+- 🐦 Twitter: [0xcharanmadhu](https://twitter.com/0xcharanmadhu)
 - 🅿️ Peerlist: [CharanMadhu](https://peerlist.io/charanmadhu)
 
 ## 🤝 Thanks for Visiting!
